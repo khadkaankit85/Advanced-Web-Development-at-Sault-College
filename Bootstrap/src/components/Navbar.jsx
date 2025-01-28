@@ -1,3 +1,6 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
+
 const Navbar = () => {
   const showCopyright = () => {
     alert("Copyright © 2025 Angkit Khadka. All Rights Reserved.");
