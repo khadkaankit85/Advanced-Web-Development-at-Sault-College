@@ -1,6 +1,6 @@
 ### Screenshot
 
-[!homepage](./imges/image.png)
+![homepage](./imges/image.png)
 
 ### Credit
 
