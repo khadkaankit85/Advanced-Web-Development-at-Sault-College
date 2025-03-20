@@ -22,16 +22,6 @@ This Flutter application has three main functionalities:
 - `assets/transactions.json`: Stores transaction data for each account.
 - `assets/images/`: Contains application images and icons.
 
-## Features
-
-- Clean and modern Material Design UI
-- Real-time date display
-- Account balance tracking
-- Detailed transaction history
-- Color-coded transaction indicators (red for withdrawals, green for deposits)
-- Intuitive navigation flow
-- Error handling and loading states
-
 ## Navigation Flow
 
 1. Welcome Screen → View Accounts
@@ -48,32 +38,13 @@ This Flutter application has three main functionalities:
 
 ## Why These Changes?
 
-The application demonstrates Flutter's capabilities in:
+Made changes were targeted towards
 
 - Building a professional banking interface
 - Handling JSON data efficiently
 - Implementing clean navigation patterns
 - Creating responsive and user-friendly designs
 - Managing state and data flow effectively
-
-## Getting Started
-
-1. Clone the repository
-2. Navigate to the project directory
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the application:
-   ```bash
-   flutter run
-   ```
-
-## Prerequisites
-
-- Flutter SDK (version 3.0.0 or higher)
-- Dart SDK (version 3.0.0 or higher)
-- Android Studio / VS Code with Flutter extensions
 
 ## Project Structure
 
@@ -92,3 +63,9 @@ The application demonstrates Flutter's capabilities in:
 2. Accounts List → Transaction Details
 3. Transaction Details → Back to Accounts List
 4. Accounts List → Back to Welcome Screen
+
+## UIs
+
+![welcome-screen](./assets/images/welcome.png)
+![account-page](./assets/images/accounts.png)
+![transaction-page](./assets/images/transaction.png)
